@@ -6,7 +6,7 @@ title: Dheeraj Akula
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student at Arizona State University
 
 # Organizations/Affiliations
 organizations:
@@ -46,9 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DheerajAkula7
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- #icon: google-scholar
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/dheerajakula
