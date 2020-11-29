@@ -6,12 +6,12 @@ title: Dheeraj Akula
 superuser: true
 
 # Role/position
-role: Student at Arizona State University
+role: currently pursuing my masters in computer science
 
 # Organizations/Affiliations
 organizations:
 - name: Arizona State University
-  url: ""
+  url: "https://www.asu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
